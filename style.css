@@ -8,7 +8,7 @@ h1{
 .yellow{
     color: rgb(255, 112, 17);
 }
-section{
+.flexebal-content{
     display:flex;
     margin-bottom: 120px;
 }
@@ -18,15 +18,17 @@ div{
 .helf-width{
     width: 50%;
     padding-left: 5%;
+    padding-right: 5%;
     
 }
 .helf-width img{
     width: 80%;
 
+
 }
 .link-button{
     text-decoration: none;
-    background-image: linear-gradient(rgb(253, 193, 103) ,rgb(255, 112, 17));
+    background-image: linear-gradient(rgb(255, 1, 1) ,rgb(241, 155, 97));
     padding: 10px 15px;
     color: white;
     font-weight: 500;
@@ -40,14 +42,14 @@ div{
 }
 
 .middel-baner{
-    background-image: url(internet-downlod/engin-akyurt-Y5n8mCpvlZU-unsplash.jpg);
+    background-image: url(internet-downlod/photo-1579648207097-edbc62fb94930.jpg);
     background-repeat: no-repeat;
     background-position:right;
     background-size: 100%;
 }
 .middle-hadding{
     text-decoration: none;
-    background-image: linear-gradient(rgba(255, 32, 69, 0.829) ,rgb(255, 0, 0));
+    
     padding: 5px 5px;
     color: white;
     font-weight: 400;
@@ -65,6 +67,36 @@ div{
 }
 .font-color{
     color: white;
+}
+.box-item{
+    image-orientation: unset;
+    border-radius: 5%;
+    width: 25%;
+    margin-left: 5%;
+    margin-right: 5%;
+    box-shadow: 15px 15px 40px gray;
+    padding-left: 2%;
+    padding-right: 2%;
+
+}
+.img{
+    border-radius: 20px;
+    padding-top: 2%;
+    
+      
+      
+      
+}
+.section-three{
+    text-align: center;
+
+}
+footer p {
+    text-align: center;
+
+}
+.foot{
+    color: rgb(255, 38, 0);
 }
 
 
